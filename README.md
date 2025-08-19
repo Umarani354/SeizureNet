@@ -64,7 +64,7 @@ We used the **Bonn University EEG dataset**, containing recordings from **500 su
 ## 🚀 How to Run (Google Colab)
 
 1. **Open in Google Colab**  
-   Click the badge below to launch the notebook in Colab: 
+   Click on the badge to launch the notebook in Colab: 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Umarani354/SeizureNet/blob/main/epileptic_seziure.ipynb)
 
 2. **Enable GPU Runtime**  
